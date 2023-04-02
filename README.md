@@ -1,4 +1,9 @@
 # DeepMS2Prop
+
+Testing data can be found in the compound*.csv files.
+Must have tensorflow, rdkit, keras, scikit-learn installed, jupyter notebook, anaconda to run ms2prop2.ipynb 
+
+-------------------------------------------------------------------------------------------------
 MS testing data can be found  here: https://massbank.eu/MassBank/
 training data from https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp
 
