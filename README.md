@@ -32,3 +32,4 @@ https://chatgpdb-ambermd.org
 
 https://www.rcsb.org/
 
+https://chemicbook.com/2023/04/11/LLMs-in-Chemistry.html
